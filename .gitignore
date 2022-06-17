@@ -1,4 +1,3 @@
 node_modules
 .idea
-src/assets/postcards_subset_geo.js
 src/assets/ussr_subset_geo.js
